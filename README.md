@@ -12,8 +12,8 @@ Someone who believes in:<br><br>- Lifelong learning and that truly passionate in
 <a href="https://api.eu.badgr.io/public/assertions/yhmhSlLLTJiUR5Boqlitog"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/yhmhSlLLTJiUR5Boqlitog/image"></a>
   
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VCGithubCode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VCGithubCode&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=VCGithubCode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=VCGithubCode&theme=tokyonight&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VCGithubCode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
