@@ -3,7 +3,38 @@
 ![gif](citykid.gif)
   
   # 💫 About Me:
-Someone who believes in:<br><br>- Lifelong learning... and that truly passionate individuals acheive mastery at their own pace<br><br>- Failure being a strong material to use as a foundation for success<br><br>- Clear, empathetic, communication with team members (and everyone else too)<br><br>- A kind word and support... as that can sometimes be more helpful than technical jargon<br><br>- Assisting a peer to find their purpose... which may more quickly lead them to the answers they have been searching for... Now, and in moments that you may not be available<br><br>- Helping others without expecting recognition or public reward<br><br>- Taking the steps to actively listen, observe, plan, gather resources, and critically think, as they can have a higher ROI than... blindly starting to code<br><br>- Fully understanding the problem before attempting to solve it<br><br>- Lifting up others and finding ways to align and remain productive, rather than highlighting ways to disagree and remain stuck<br><br>- Being "out of sight, out of mind" is far better than being "out of pocket" and "out of touch"<br><br>- The world constantly evolving... Perhaps it is better to adapt for survival rather than remain rigid and become fossilized<br><br>- Our time being valuable... and that we should respect the universe as it has been here long before our existence and most likely will be here long after<br><br>- The world is a big place and the universe is significantly larger, maybe we should leave things better than we found them and not sweat the small stuff <br><br> Sincerely, <br><br>- Yours
+Someone who believes in:
+
+Lifelong learning... and that truly passionate individuals achieve mastery at their own pace.
+
+Failure being a strong material to use as a foundation for success.
+
+Clear, empathetic communication with team members (and everyone else too).
+
+A kind word and support... as that can sometimes be more helpful than technical jargon.
+
+Assisting a peer to find their purpose... which may more quickly lead them to the answers they have been searching for... Now, and in moments that you may not be available.
+
+Helping others without expecting recognition or public reward.
+
+Taking the steps to actively listen, observe, plan, gather resources, and critically think, as they can have a higher ROI than... blindly starting to code.
+
+Fully understanding the problem before attempting to solve it.
+
+Lifting up others and finding ways to align and remain productive, rather than highlighting ways to disagree and remain stuck.
+
+Being "out of sight, out of mind" is far better than being "out of pocket" and "out of touch".
+
+The world constantly evolving... Perhaps it is better to adapt for survival rather than remain rigid and become fossilized.
+
+Our time being valuable... and that we should respect the universe as it has been here long before our existence and most likely will be here long after.
+
+The world is a big place and the universe is significantly larger, maybe we should leave things better than we found them and not sweat the small stuff.
+
+Sincerely,
+
+-Yours
+
 
 # Hackathons: 
 
