@@ -80,7 +80,12 @@ I either have built something with, or have an interest in being able to work wi
 ![Snake animation](https://github.com/VCGithubCode/VCGithubCode/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><!---
+
+<!-- The inspiration template for this page was generated with GPRM ( https://gprm.itsvg.in ).
+Then, after that, I gained inspirtation from (https://dev.to/grahamthedev) one of my favorite a11y creators. Then, after that I broke one of his rules(sorry) and gained inspiration from this github blog... (https://github.blog/2021-05-13-video-uploads-available-github/) for the video. Then, after that I got some inspiration from this LinkedIn article... (https://www.linkedin.com/pulse/create-cool-github-profile-readmemd-muhammedh-shadir/) for more profile generated types.  Last, but not least, the snake game comes from a combination of these two articles... (https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid) and (https://taozhi.medium.com/how-to-add-a-snake-game-to-your-github-page-d742918fd733)  The video uses typejs and was inspired by this article... (https://dev.to/charalambosioannou/awesome-typing-effect-overlay-on-images-css-js-2nof). I then used adobe premiere to convert it into a form useful for me after writing the code in my codepen and screen recording the render.  Stack overflow and W3Schools information on how html in markdown works inspired layout choices. Happy Coding 🥳
+-->
+
+<!--- Leaving this here so that when you're gaining inspiration from comparing my read me to yours you will be able to more easily tell them apart...
 VCGithubCode/VCGithubCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
