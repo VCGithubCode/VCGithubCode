@@ -25,6 +25,8 @@ Lifting up others and finding ways to align and remain productive, rather than h
 
 Being "out of sight, out of mind" is far better than being "out of pocket" and "out of touch".
 
+Tech focused on sustainability, better quality of life, scientific research for a better understanding of our environment, and evolution > robot wars.
+
 The world constantly evolving... Perhaps it is better to adapt for survival rather than remain rigid and become fossilized.
 
 Our time being valuable... and that we should respect the universe as it has been here long before our existence and most likely will be here long after.
