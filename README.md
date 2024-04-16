@@ -21,11 +21,13 @@ Taking the steps to actively listen, observe, plan, gather resources, and critic
 
 Fully understanding the problem before attempting to solve it.
 
-Lifting up others and finding ways to align and remain productive, rather than highlighting ways to disagree and remain stuck.
+Lifting up others and finding ways to align and remain productive... innovative, rather than highlighting ways to disagree and remain stagnant.
+
+There often being more than one solution to a problem.  Sometimes, it's better to take the time to celebrate the leaps forward towards resolution before stress testing every step in the process or comparing it to "your way".
 
 Being "out of sight, out of mind" is far better than being "out of pocket" and "out of touch".
 
-EID... Equity, Inclusion, and Diversity of course.  This should be the unwritten rule and not the exception.
+EID... Equity, Inclusion, and Diversity.  This should be the unwritten rule and not the exception.
 
 Tech focused on sustainability, better quality of life, scientific research for a better understanding of our environment, and evolution > robot wars.
 
