@@ -25,6 +25,8 @@ Lifting up others and finding ways to align and remain productive, rather than h
 
 Being "out of sight, out of mind" is far better than being "out of pocket" and "out of touch".
 
+EID... Equity, Inclusion, and Diversity of course.  This should be the unwritten rule and not the exception.
+
 Tech focused on sustainability, better quality of life, scientific research for a better understanding of our environment, and evolution > robot wars.
 
 The world constantly evolving... Perhaps it is better to adapt for survival rather than remain rigid and become fossilized.
