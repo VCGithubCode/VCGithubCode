@@ -74,7 +74,7 @@ I either have built something with, or have an interest in being able to work wi
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vconlineeducation) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@VCOnlineEducation) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/VCOnlineEducation) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/VCOnlineEducation)
 
-![Snake animation](https://github.com/VCGithubCode/VCGithubCode/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/VCGithubCode/VCGithubCode/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><!---
