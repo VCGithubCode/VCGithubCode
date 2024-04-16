@@ -40,7 +40,7 @@ Sincerely,
 
 # Hackathons: 
 
-<p>I love working in groups.  I find my energy in team building and finding the best ways to amplify a team member's passion and talents.  I genuinely love to see that moment when a person finds a solution to a problem that they have been putting so much energy and effort into solving.  Witnessing these groups eventually start to teach and trust each other, and go on to compliment each others' gifts is nothing short of magical, and I am gratfeul to be a part of it.  I get a rush out of celebrating the collabative efforts of the team, and getting my hands dirty to help remove road blocks for any member of my crew that might face them.  It's never a "them" problem, it's an "us" problem. I might not know the answer, but I am willing to join you so that we can find a solution together.</p><br>
+<p>I love working in groups.  I find my energy in team building and finding the best ways to amplify a team member's passion and talents.  I genuinely love to see that moment when a person finds a solution to a problem that they have been putting so much energy and effort into solving.  Witnessing these groups eventually start to teach and trust each other, and go on to compliment each others' gifts, is nothing short of magical, and I am gratfeul to be a part of it.  I get a rush out of celebrating the collabative efforts of the team, and getting my hands dirty to help remove road blocks for any member of my crew that might face them.  It's never a "them" problem, it's an "us" problem. I might not know the answer, but I am willing to join you so that we can find a solution together.</p><br>
 
 |  March 2024  |  Febuary 2024  | January 2024 |
 | :----------: |  :----------:  | :----------: |
