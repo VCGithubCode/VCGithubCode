@@ -19,7 +19,7 @@ Helping others without expecting recognition or public reward.
 
 Taking the steps to actively listen, observe, plan, gather resources, and critically think, as they can have a higher ROI than... blindly starting to code.
 
-Fully understanding the problem before attempting to solve it.
+Fully understanding the problem and pain points of the user before attempting to solve it.
 
 Lifting up others and finding ways to align and remain productive... innovative, rather than highlighting ways to disagree and remain stagnant.
 
@@ -49,6 +49,7 @@ Sincerely,
 
 |  March 2024  |  Febuary 2024  | January 2024 |
 | :----------: |  :----------:  | :----------: |
+| Scrum Master |  Scrum Master  | Presenter/Logic |
 | <a href="https://api.eu.badgr.io/public/assertions/wkeCeqUJTw2PYpWn0m85KQ"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/wkeCeqUJTw2PYpWn0m85KQ/image"></a>  |   <a href="https://api.eu.badgr.io/public/assertions/SwY_-ArdT7eY9SNg6B-_Zw"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/SwY_-ArdT7eY9SNg6B-_Zw/image"></a>   | <a href="https://api.eu.badgr.io/public/assertions/yhmhSlLLTJiUR5Boqlitog"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/yhmhSlLLTJiUR5Boqlitog/image"></a> |<br>
 
   
