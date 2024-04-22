@@ -46,7 +46,7 @@ Sincerely,
 <br>
 
 
-<a href="https://app.daily.dev/vconlineeducation"><img src="./devcard.png" width="356" alt="Vernell's Dev Card"/></a>
+<a href="https://github.com/VCGithubCode/VCGithubCode"><img src="devcard.png" width="356" alt="Vernell's Dev Card"/></a>
 
 <br>
 
