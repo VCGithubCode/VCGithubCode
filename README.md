@@ -43,7 +43,12 @@ Sincerely,
 
 <hr>
 
-<a href="https://app.daily.dev/VCGithubCode/"><img src="./devcard.png" width="356" alt="Vernell's Dev Card"/></a>
+<br>
+
+
+<a href="https://app.daily.dev/vconlineeducation"><img src="https://api.daily.dev/devcards/v2/ng61JOIM5hYnsMAxdow5Q.png?type=default&r=xld" width="356" alt="Vernell C.'s Dev Card"/></a>
+
+<br>
 
 # Hackathons: 
 
