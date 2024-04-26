@@ -55,6 +55,7 @@ Sincerely,
 
 |  March 2024  |  Febuary 2024  | January 2024 |
 | :----------: |  :----------:  | :----------: |
+| World Happiness Day | Valentine's Day | Financial |
 | Scrum Master |  Scrum Master  | Presenter / Logic |
 | <img src="march-2024-official-announcement.webp" width="250"> | <img src="febuary-2024-official-announcement.webp" width="250"> |  <img src="january-2024-official-announcement.webp" width="250"> |
 | <a href="https://api.eu.badgr.io/public/assertions/wkeCeqUJTw2PYpWn0m85KQ"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/wkeCeqUJTw2PYpWn0m85KQ/image"></a>  |   <a href="https://api.eu.badgr.io/public/assertions/SwY_-ArdT7eY9SNg6B-_Zw"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/SwY_-ArdT7eY9SNg6B-_Zw/image"></a>   | <a href="https://api.eu.badgr.io/public/assertions/yhmhSlLLTJiUR5Boqlitog"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/yhmhSlLLTJiUR5Boqlitog/image"></a> |<br>
