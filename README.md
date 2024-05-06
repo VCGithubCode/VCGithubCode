@@ -37,6 +37,8 @@ Our time being valuable... and that we should respect the universe as it has bee
 
 The world is a big place and the universe is significantly larger, maybe we should leave things better than we found them and not sweat the small stuff.
 
+There will always be someone that doesn't see your worth.  Please don't let that someone be you.  Be kind to yourself.  You have come a long way.
+
 Sincerely,
 
 -Yours
