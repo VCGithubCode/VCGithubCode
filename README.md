@@ -27,7 +27,7 @@ There often being more than one solution to a problem.  Sometimes, it's better t
 
 Being "out of sight, out of mind" is far better than being "out of pocket" and "out of touch".
 
-EID... Equity, Inclusion, and Diversity.  This should be the unwritten rule and not the exception.  When done correctly, a sense of belonging is present for all members.  Does your organization's leadership create this?
+DE&I... Diversity, Equity, and Inclusion.  This should be the unwritten rule and not the exception.  When done correctly, a sense of belonging is present for all members.  Does your organization's leadership create this?  Hint: If it feels weird to do... check your biases.
 
 Tech focused on sustainability, better quality of life, scientific research for a better understanding of our environment, and evolution > robot wars.
 
