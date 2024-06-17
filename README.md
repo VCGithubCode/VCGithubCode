@@ -5,6 +5,8 @@
   # 💫 About Me:
 Someone who believes in:
 
+First of all... being authentic.
+
 Lifelong learning... and that truly passionate individuals achieve mastery at their own pace.
 
 Failure being a strong material to use as a foundation for success.
