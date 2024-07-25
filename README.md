@@ -60,7 +60,7 @@ Sincerely,
 |  March 2024  |  Febuary 2024  | January 2024 |
 | :----------: |  :----------:  | :----------: |
 | World Happiness Day | Valentine's Day | Financial |
-| Scrum Lead |  Scrum Lead / Presenter  | Presenter / Logic |
+| Scrum Lead / Testing / Code Refactor |  Scrum Lead / Presenter  | Presenter / Logic / Code Refactor |
 | <img src="march-2024-official-announcement.webp" width="250"> | <img src="febuary-2024-official-announcement.webp" width="250"> |  <img src="january-2024-official-announcement.webp" width="250"> |
 | <a href="https://badgecheck.io/?url=https%3A%2F%2Fapi.eu.badgr.io%2Fpublic%2Fassertions%2FwkeCeqUJTw2PYpWn0m85KQ%3Fidentity__email%3Dvernellclark%2540hotmail.com&identity__email=vernellclark%40hotmail.com"><img width="120px" height="120px" src="https://media.eu.badgr.com/uploads/badges/assertion-wkeCeqUJTw2PYpWn0m85KQ.png?versionId=G.rMzbtLIwG.ztmwUzszP2uZqTBZpFnf"></a>  |   <a href="https://badgecheck.io/?url=https%3A%2F%2Fapi.eu.badgr.io%2Fpublic%2Fassertions%2FSwY_-ArdT7eY9SNg6B-_Zw%3Fidentity__email%3Dvernellclark%2540hotmail.com&identity__email=vernellclark%40hotmail.com"><img width="120px" height="120px" src="https://media.eu.badgr.com/uploads/badges/assertion-SwY_-ArdT7eY9SNg6B-_Zw.png?versionId=0Hmu3Sc7V4SN31m85jDuNjo2TssAsL0d"></a>   | <a href="https://badgecheck.io/?url=https%3A%2F%2Fapi.eu.badgr.io%2Fpublic%2Fassertions%2FyhmhSlLLTJiUR5Boqlitog%3Fidentity__email%3Dvernellclark%2540hotmail.com&identity__email=vernellclark%40hotmail.com"><img width="120px" height="120px" src="https://media.eu.badgr.com/uploads/badges/assertion-yhmhSlLLTJiUR5Boqlitog.png"></a> |<br>
   
