@@ -66,6 +66,7 @@ Sincerely,
 
 |  May 2024  | July 2024 |
 | :----------: |  :----------:  |
+|| <img src="july-2024-official-announcement.webp" width="250"> |
 |Frontend / Git & Github / Advisor | Scrum Lead / Overall Styles / Presenter |
 | <a href="https://badgecheck.io/?url=https%3A%2F%2Fapi.eu.badgr.io%2Fpublic%2Fassertions%2FR3lF454vQzibUgfLcGBAGw%3Fidentity__email%3Dvernellclark%2540hotmail.com&identity__email=vernellclark%40hotmail.com"><img width="120px" height="120px" src="https://media.eu.badgr.com/uploads/badges/assertion-R3lF454vQzibUgfLcGBAGw.png"></a> | <a href="https://badgecheck.eu.badgr.com/?url=https%3A%2F%2Fapi.eu.badgr.io%2Fpublic%2Fassertions%2FI20D003OR8WN7QHGJ2qL2w&identity__email=vernellclark%40hotmail.com"><img width="120px" height="120px" src="https://media.eu.badgr.com/uploads/badges/assertion-I20D003OR8WN7QHGJ2qL2w.png"></a> |
 
