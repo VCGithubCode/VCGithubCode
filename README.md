@@ -65,9 +65,10 @@ Sincerely,
 | <a href="https://badgecheck.io/?url=https%3A%2F%2Fapi.eu.badgr.io%2Fpublic%2Fassertions%2FyhmhSlLLTJiUR5Boqlitog%3Fidentity__email%3Dvernellclark%2540hotmail.com&identity__email=vernellclark%40hotmail.com"><img width="120px" height="120px" src="https://media.eu.badgr.com/uploads/badges/assertion-yhmhSlLLTJiUR5Boqlitog.png"></a> |   <a href="https://badgecheck.io/?url=https%3A%2F%2Fapi.eu.badgr.io%2Fpublic%2Fassertions%2FSwY_-ArdT7eY9SNg6B-_Zw%3Fidentity__email%3Dvernellclark%2540hotmail.com&identity__email=vernellclark%40hotmail.com"><img width="120px" height="120px" src="https://media.eu.badgr.com/uploads/badges/assertion-SwY_-ArdT7eY9SNg6B-_Zw.png?versionId=0Hmu3Sc7V4SN31m85jDuNjo2TssAsL0d"></a> | <a href="https://badgecheck.io/?url=https%3A%2F%2Fapi.eu.badgr.io%2Fpublic%2Fassertions%2FwkeCeqUJTw2PYpWn0m85KQ%3Fidentity__email%3Dvernellclark%2540hotmail.com&identity__email=vernellclark%40hotmail.com"><img width="120px" height="120px" src="https://media.eu.badgr.com/uploads/badges/assertion-wkeCeqUJTw2PYpWn0m85KQ.png?versionId=G.rMzbtLIwG.ztmwUzszP2uZqTBZpFnf"></a> |<br>
 
 |  May 2024  | July 2024 |
-| :----------: |  :----------:  |
-| <img src="may-2024-official-announcement.webp" width="250"> | <img src="july-2024-official-announcement.webp" width="250"> |
+| :----------: | :----------: |
+| Star Wars | Pride |
 |Frontend / Git & Github / Advisor | Scrum Lead / Overall Styles / Presenter |
+| <img src="may-2024-official-announcement.webp" width="250"> | <img src="july-2024-official-announcement.webp" width="250"> |
 | <a href="https://badgecheck.io/?url=https%3A%2F%2Fapi.eu.badgr.io%2Fpublic%2Fassertions%2FR3lF454vQzibUgfLcGBAGw%3Fidentity__email%3Dvernellclark%2540hotmail.com&identity__email=vernellclark%40hotmail.com"><img width="120px" height="120px" src="https://media.eu.badgr.com/uploads/badges/assertion-R3lF454vQzibUgfLcGBAGw.png"></a> | <a href="https://badgecheck.eu.badgr.com/?url=https%3A%2F%2Fapi.eu.badgr.io%2Fpublic%2Fassertions%2FI20D003OR8WN7QHGJ2qL2w&identity__email=vernellclark%40hotmail.com"><img width="120px" height="120px" src="https://media.eu.badgr.com/uploads/badges/assertion-I20D003OR8WN7QHGJ2qL2w.png"></a> |
 
 # 📊 GitHub Stats:
