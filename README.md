@@ -39,7 +39,7 @@ Our time being valuable... and that we should respect the universe as it has bee
 
 The world is a big place and the universe is significantly larger, maybe we should leave things better than we found them and not sweat the small stuff.
 
-"There will always be someone that can't see your worth.  Don't it be you." -Mel Robbins
+"There will always be someone that can't see your worth.  Don't let it be you." -Mel Robbins
 
 Be kind to yourself.  You have come a long way.
 
