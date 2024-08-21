@@ -3,6 +3,9 @@
 <img height="100%" width="100%" src="citykid.gif">
   
   # 💫 About Me:
+
+  This is my first year ever as a developer... seems like I'm holding my own.
+  
 Someone who believes in:
 
 First of all... being authentic.
