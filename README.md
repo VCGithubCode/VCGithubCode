@@ -4,7 +4,7 @@
   
   # 💫 About Me:
 
-  This is my first year ever as a developer... seems like I'm holding my own.
+Recently entered my 2nd year studying Software Development.
   
 Someone who believes in:
 
