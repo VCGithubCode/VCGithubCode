@@ -78,8 +78,8 @@ Sincerely,
 
 | September 2024 |
 | :----------: |
-| Scrum Lead / Team Advisor |
 | Classical Music |
+| Scrum Lead / Team Advisor |
 | <a href="https://justynath.github.io/harmony-hackers/index.html" target="_blank" rel="noopener noreferrer"><img src="september-2024-official-announcement.webp" width="250"></a> |
 | <a href="https://badgecheck.io/?url=https%3A%2F%2Fapi.eu.badgr.io%2Fpublic%2Fassertions%2FR3lF454vQzibUgfLcGBAGw%3Fidentity__email%3Dvernellclark%2540hotmail.com&identity__email=vernellclark%40hotmail.com"><img width="120px" height="120px" src="https://media.eu.badgr.com/uploads/badges/assertion-EiQYiOD9QQqsYpYWF8JPPg.png"></a> |
 
