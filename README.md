@@ -1,6 +1,8 @@
 <div id="profile" align="center">
   <hr>
 <img height="100%" width="100%" src="citykid.gif">
+
+</div>
   
   <details><summary>
     
@@ -54,6 +56,8 @@ Sincerely,
 
 -Yours
 </details>
+
+<div id="profile" align="center">
 
 <hr>
 
