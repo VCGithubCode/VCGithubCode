@@ -1,14 +1,30 @@
 <div id="profile" align="center">
+
+![](https://github-readme-stats-git-master-vernell-cs-projects.vercel.app/api?username=VCGithubCode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=VCGithubCode&theme=tokyonight&hide_border=false)
+
   <hr>
 <img height="100%" width="100%" src="citykid.gif">
 
+<br>
+<br>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VCGithubCode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<br>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=VCGithubCode&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
+
 </div>
+
+<details><summary>
   
-  <details><summary>
-    
 # 💫 About Me:
 
 </summary>
+
+</div>
 
 Recently entered my 2nd year studying Software Development.
   
@@ -97,15 +113,6 @@ Sincerely,
 | Scrum Lead / Team Advisor |
 | <a href="https://justynath.github.io/harmony-hackers/index.html" target="_blank" rel="noopener noreferrer"><img src="september-2024-official-announcement.webp" width="250"></a> |
 | <a href="https://badgecheck.io/?url=https%3A%2F%2Fapi.eu.badgr.io%2Fpublic%2Fassertions%2FR3lF454vQzibUgfLcGBAGw%3Fidentity__email%3Dvernellclark%2540hotmail.com&identity__email=vernellclark%40hotmail.com"><img width="120px" height="120px" src="https://media.eu.badgr.com/uploads/badges/assertion-EiQYiOD9QQqsYpYWF8JPPg.png"></a> |
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats-git-master-vernell-cs-projects.vercel.app/api?username=VCGithubCode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VCGithubCode&theme=tokyonight&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VCGithubCode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VCGithubCode&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/vernellclark) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vernellclark/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@vconlineeducation) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/14469111/vconlineeducation) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@VCOnlineEducation) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/VernellClark) 
