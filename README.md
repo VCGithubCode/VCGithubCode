@@ -2,6 +2,7 @@
 
 ![](https://github-readme-stats-git-master-vernell-cs-projects.vercel.app/api?username=VCGithubCode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VCGithubCode&theme=tokyonight&hide_border=false)
+<img width="316" alt="nov-2024-official-announcement" src="https://github.com/user-attachments/assets/2a720418-83e1-4d55-848d-afdfe4207bb4">
 
   <hr>
 <img height="100%" width="100%" src="citykid.gif">
