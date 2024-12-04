@@ -1,36 +1,19 @@
 <div id="profile" align="center">
 
-![](https://github-readme-stats-git-master-vernell-cs-projects.vercel.app/api?username=VCGithubCode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=VCGithubCode&theme=tokyonight&hide_border=false)
-
   <hr>
 <img height="100%" width="100%" src="citykid.gif">
 
 <br>
-<br>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VCGithubCode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<br>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VCGithubCode&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
-
-<details><summary>
   
 # 💫 About Me:
 
-</summary>
-
 </div>
 
-Recently entered my 2nd year studying Software Development.
-  
+Recently entered my 2nd year studying Software Development.  Built my first project Oct 12th 2023.
+
 Someone who believes in:
 
-First of all... being authentic.
+First of all... being authentic.  Without this... you honestly have nothing but pending regrets.
 
 Lifelong learning... and that truly passionate individuals achieve mastery at their own pace.
 
@@ -71,7 +54,6 @@ Be kind to yourself.  You have come a long way.
 Sincerely,
 
 -Yours
-</details>
 
 <div id="profile" align="center">
 
@@ -83,15 +65,20 @@ Sincerely,
 
 <br>
 
-<details> <summary>
+![](https://github-readme-stats-git-master-vernell-cs-projects.vercel.app/api?username=VCGithubCode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=VCGithubCode&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VCGithubCode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<br>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=VCGithubCode&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
 # 🧑‍💻 Hackathons:
 
-</summary> 
-
 <p>I love working in groups.  I find my energy in team building and finding the best ways to amplify a team member's passion and talents.  I genuinely love to see that moment when a person finds a solution to a problem that they have been putting so much energy and effort into solving.  Witnessing these groups eventually start to teach and trust each other, and go on to compliment each others' gifts, is nothing short of magical, and I am grateful to be a part of it.  I get a rush out of celebrating the collabative efforts of the team, and getting my hands dirty to help remove road blocks for any member of my crew that might face them.  It's never a "them" problem, it's an "us" problem. I might not know the answer, but I am willing to join you so that we can find a solution together.</p><br>
 
-</details>
 
 |  January 2024  |  Febuary 2024  | March 2024 |
 | :----------: |  :----------:  | :----------: |
